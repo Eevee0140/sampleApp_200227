@@ -1,0 +1,21 @@
+Started GET "/" for ::1 at 2020-02-18 13:52:15 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering D:/02_SOFTWARE/Ruby24-x64/lib/ruby/gems/2.4.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered D:/02_SOFTWARE/Ruby24-x64/lib/ruby/gems/2.4.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 225ms (Views: 34.5ms)
+
+
+Started GET "/" for ::1 at 2020-02-21 01:11:00 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering D:/02_SOFTWARE/Ruby24-x64/lib/ruby/gems/2.4.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered D:/02_SOFTWARE/Ruby24-x64/lib/ruby/gems/2.4.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (7.0ms)
+Completed 200 OK in 845ms (Views: 59.1ms)
+
+
+Started GET "/" for ::1 at 2020-02-21 01:18:14 +0900
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (1.0ms)
+Completed 200 OK in 184ms (Views: 8.6ms)
+
+
